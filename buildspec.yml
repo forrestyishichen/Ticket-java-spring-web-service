@@ -19,7 +19,7 @@ phases:
       - echo Build completed on `date`
       - mv target/ROOT .
 artifacts:
-  type: zip
+  type: jackson-core-2
   files:
     - 'ROOT/WEB-INF/classes/com/aws/codestar/projecttemplates/Application.class'
     - 'ROOT/WEB-INF/classes/com/aws/codestar/projecttemplates/controller/HelloWorldController.class'
