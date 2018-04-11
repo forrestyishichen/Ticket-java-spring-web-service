@@ -27,7 +27,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="486" />
     <option name="y" value="24" />
     <option name="width" value="1141" />
@@ -120,15 +120,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523419025711</updated>
-      <workItem from="1523419030973" duration="352000" />
+      <workItem from="1523419030973" duration="685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352000" />
+    <option name="totallyTimeSpent" value="685000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="486" y="24" width="1141" height="949" extended-state="0" />
+    <frame x="486" y="24" width="1141" height="949" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
